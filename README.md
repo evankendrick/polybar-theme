@@ -1,2 +1,2 @@
-# fluxbox-theme
+# polybar-theme
 100% vibecode for fluxbox linux antix theme
